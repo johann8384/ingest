@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: net.opslive.services
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, config-kubernetes, dekorate-halkyon, dekorate-jaeger, dekorate-kubernetes, gradle, hibernate-jpa, http-client, java, java-application, jdbc-hikari, jib, junit, kubernetes, logback, lombok, management, micrometer, micrometer-prometheus, mockito, netty-server, openapi, postgres, readme, shade, testcontainers, tracing-jaeger, yaml]
